@@ -1,0 +1,26 @@
+.heading{
+    font-size:45px ;
+    font-family: 'Splash', cursive;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(65, 225, 100);
+}
+.note{
+    font-size: 20px;
+    color:rgb(255, 240, 127) ;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(179, 0, 255);
+    font-size: 20px;
+    color: rgb(0, 255, 162);
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    position: fixed;
+}
+canvas{
+    border: 5px solid rgb(255, 98, 0);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px brown;
+}
